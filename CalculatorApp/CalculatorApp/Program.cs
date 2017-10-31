@@ -10,6 +10,8 @@ namespace CalculatorApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sdfsdf");
+            Console.ReadLine();
         }
     }
 }
